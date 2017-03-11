@@ -1,2 +1,17 @@
 /.idea
 homer.iml
+homer-commons/homer-commons.iml
+homer-manage/homer-manage.iml
+homer-manage/homer-manage-dao/homer-manage-dao.iml
+homer-manage/homer-manage-pojo/homer-manage-pojo.iml
+homer-manage/homer-manage-service/homer-manage-service.iml
+homer-manage/homer-manage-web/homer-manage-web.iml
+homer-parent/homer-parent.iml
+
+/homer-manage/homer-manage-service/target/
+/homer-manage/homer-manage-dao/target/
+/homer-manage/homer-manage-pojo/target/
+/homer-manage/homer-manage-web/target/
+/homer-manage/target/
+/homer-parent/target/
+/homer-commons/target/
