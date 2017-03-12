@@ -19,7 +19,7 @@ http://www.springframework.org/schema/aop/spring-aop-4.1.xsd">
         <property name="patterns">
             <list>
                 <value>com.just.code.manage.service.*</value>
-                <value>com.just.code.manage.dao.*</value>
+                <!--<value>com.just.code.manage.mapper.*</value>-->
             </list>
         </property>
     </bean>
